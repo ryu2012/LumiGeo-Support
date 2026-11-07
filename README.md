@@ -10,18 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ryu2012.github.io/LumiGeo-Support/">Official Support Website</a> •
   <a href="https://ryu2012.github.io/LumiGeo-Support/privacy.html">Privacy Policy</a> •
   <a href="https://github.com/ryu2012/LumiGeo-Support/issues">Issues / Feedback</a>
-</p>
-
-<p align="center">
-  <a href="https://ryu2012.github.io/LumiGeo-Support/">
-    <img src="assets/download-badge-altstore-dark.png" height="44" alt="Download on AltStore">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ryu2012.github.io/LumiGeo-Support/">
-    <img src="assets/add-source-to-sidestore.png" height="44" alt="Add Source to SideStore">
-  </a>
 </p>
 
 ---
@@ -33,13 +24,8 @@
 
 iPhone をポケットやバッグに入れたまま、カメラの電源を入れるだけで自動的に再接続し、撮影写真へリアルタイムに正確な位置情報を記録します。
 
-### インストール方法 (AltStore / SideStore)
-1. **ワンタップ追加**: iPhone の Safari から [LumiGeo 公式サイト](https://ryu2012.github.io/LumiGeo-Support/) を開き、各バッジをタップすると自動でアプリ起動＆ソース追加画面が開きます。（※ GitHub のセキュリティ仕様上、README からのカスタム URL スキーム直接起動が制限されているため Web サイトを経由します）
-2. **手動でソースを追加**: AltStore または SideStore の「Sources」タブを開き、右上の「＋」ボタンから以下の URL を追加してください：
-   ```
-   https://ryu2012.github.io/LumiGeo-Support/apps.json
-   ```
-3. ソース一覧に追加された「LumiGeo」を選択してインストールを実行します。
+### 配信について (App Store)
+現在、Apple **App Store** での公開に向けて準備中です。
 
 ### 主な特徴
 - **自動再接続 & バックグラウンド同期**:
@@ -62,13 +48,8 @@ iPhone をポケットやバッグに入れたまま、カメラの電源を入�
 
 Keep your iPhone in your pocket or camera bag; simply turn on your camera, and LumiGeo automatically connects and writes accurate geotags to your photos.
 
-### Installation (AltStore / SideStore)
-1. **One-Tap Install**: Open the [LumiGeo Official Website](https://ryu2012.github.io/LumiGeo-Support/) in Safari on your iPhone and tap either badge to automatically launch the app and open the Add Source sheet. (GitHub's markdown sanitizer blocks custom URL schemes in README links).
-2. **Manual Add**: Open AltStore or SideStore, navigate to **Sources**, and tap **+** to add this repository:
-   ```
-   https://ryu2012.github.io/LumiGeo-Support/apps.json
-   ```
-3. Locate **LumiGeo** in the sources list and tap Install.
+### Availability (App Store)
+LumiGeo is currently being prepared for official release on the Apple **App Store**.
 
 ### Key Features
 - **Automatic Background Reconnection**:
