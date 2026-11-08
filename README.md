@@ -25,7 +25,8 @@
 iPhone をポケットやバッグに入れたまま、カメラの電源を入れるだけで自動的に再接続し、撮影写真へリアルタイムに正確な位置情報を記録します。
 
 ### 配信について (App Store)
-現在、Apple **App Store** での公開に向けて準備中です。
+Apple **App Store** にて無料で配信中です。  
+👉 [App Store でダウンロード](https://apps.apple.com/app/lumigeo/id6831895829)
 
 ### 主な特徴
 - **自動再接続 & バックグラウンド同期**:
@@ -49,7 +50,8 @@ iPhone をポケットやバッグに入れたまま、カメラの電源を入�
 Keep your iPhone in your pocket or camera bag; simply turn on your camera, and LumiGeo automatically connects and writes accurate geotags to your photos.
 
 ### Availability (App Store)
-LumiGeo is currently being prepared for official release on the Apple **App Store**.
+Available for free on the Apple **App Store**.  
+👉 [Download on the App Store](https://apps.apple.com/app/lumigeo/id6831895829)
 
 ### Key Features
 - **Automatic Background Reconnection**:
